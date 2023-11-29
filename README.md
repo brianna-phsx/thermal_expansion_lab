@@ -1,1 +1,0 @@
-# thermal_expansion_lab
